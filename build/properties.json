@@ -1,0 +1,118 @@
+{
+	"properties": [
+        {
+            "id": "prop1",
+            "name": "House on Petts Wood Road",
+            "type": "House",
+            "bedrooms":2,
+            "price": 750000,
+            "tenure":"Freehold",
+            "description":"A stunning five-bedroom detached house situated in a prestigious area of Orpington. The property offers spacious living with a large reception room, formal dining area, and a modern kitchen with top-of-the-line appliances. Upstairs, the master bedroom has an en-suite bathroom, and the four other bedrooms are all generous in size. The property also includes a double garage, ample parking space, and a beautifully landscaped garden.",
+            "location":"Hillside Avenue, Orpington BR5",
+            "picture":"/images/prop1pic1small.jpg",
+            "url":"properties/prop5.html",
+            "added": {
+                "month":"may",
+                "day":1,
+                "year":2022
+            }
+          }
+          ,
+        {
+            "id":"prop2",
+            "type":"Flat",
+            "bedrooms":2,
+            "price":399995,
+            "tenure":"Freehold",
+            "description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat.This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.This apartment being only five years old, is still under a 10 year  guarantee.",
+            "location":"Crofton Road Orpington BR6",
+            "picture": "/images/prop1pic2small.jpg",
+            "url":"properties/prop2.html",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop3",
+            "type":"House",
+            "bedrooms":4,
+            "price":950000,
+            "tenure":"Freehold",
+            "description":"This four bedroom detached family home is located in a desirable area close to local amenities and schools. The spacious lounge and dining area leads into a conservatory, providing ample natural light. The kitchen is fully fitted with modern appliances, and there is a separate utility room. Upstairs, there are four generously sized bedrooms, with an en-suite bathroom to the master. The rear garden is large and well-maintained, ideal for family activities.",
+            "location":"Highfield Road, Bromley BR1",
+            "picture":"/images/prop1pic3small.jpg",
+            "url":"properties/prop3.html",
+            "added": {
+                "month":"November",
+                "day":5,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop4",
+            "type":"Flat",
+            "bedrooms":1,
+            "price":250000,
+            "tenure":"Leasehold",
+            "description":"This modern one bedroom flat is perfect for first-time buyers or investors. The property is well-presented throughout, with a bright and airy living room and a fully fitted kitchen. The bedroom is spacious with built-in wardrobes, and the bathroom features a three-piece suite. Located just a short walk from the town center and local transport links.",
+            "location":"King's Road, Orpington BR6",
+            "picture":"/images/prop1pic4small.jpg",
+            "url":"properties/prop4.html",
+            "added": {
+                "month":"December",
+                "day":1,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop5",
+            "type":"House",
+            "bedrooms":5,
+            "price":1100000,
+            "tenure":"Freehold",
+            "description":"A stunning five-bedroom detached house situated in a prestigious area of Orpington. The property offers spacious living with a large reception room, formal dining area, and a modern kitchen with top-of-the-line appliances. Upstairs, the master bedroom has an en-suite bathroom, and the four other bedrooms are all generous in size. The property also includes a double garage, ample parking space, and a landscaped garden.",
+            "location":"Hillside Avenue, Orpington BR5",
+            "picture":"/images/prop1pic5small.jpg",
+            "url":"properties/prop5.html",
+            "added": {
+                "month":"October",
+                "day":18,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop6",
+            "type":"Flat",
+            "bedrooms":3,
+            "price":550000,
+            "tenure":"Leasehold",
+            "description":"This modern three-bedroom flat is located in a quiet residential area close to local amenities. The spacious open-plan living area leads into a well-fitted kitchen with integrated appliances. The three bedrooms are all of good size, and the family bathroom includes both a shower and a bathtub. The property benefits from private parking and access to communal gardens.",
+            "location":"Elm Grove, Bromley BR2",
+            "picture":"/images/prop1pic6small.jpg",
+            "url":"properties/prop6.html",
+            "added": {
+                "month":"November",
+                "day":22,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop7",
+            "type":"House",
+            "bedrooms":3,
+            "price":650000,
+            "tenure":"Freehold",
+            "description":"This charming three-bedroom semi-detached house is located in a popular residential area, offering great potential for extension (STPP). The property features a spacious living room, separate dining area, and a fully fitted kitchen. The garden is a generous size with a paved area for outdoor dining. Upstairs, there are three bedrooms and a family bathroom. The property also benefits from off-street parking and a garage.",
+            "location":"Southend Road, Orpington BR6",
+            "picture":"/images/prop1pic7small.jpg",
+            "url":"properties/prop7.html",
+            "added": {
+                "month":"December",
+                "day":3,
+                "year":2022
+            }
+        }
+	]
+}
